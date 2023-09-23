@@ -17,6 +17,3 @@
   }
 }
 
-"script":{
-  "start": "nodemon server.js"
-},
